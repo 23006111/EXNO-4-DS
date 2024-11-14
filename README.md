@@ -1,4 +1,5 @@
-# EXNO:4-DS
+# EXNO:4-Feature Scaling and Selection
+
 ## Name: Ramya P
 ## Reg no: 212223230168
 # AIM:
